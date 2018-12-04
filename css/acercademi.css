@@ -1,0 +1,69 @@
+#banner {
+    margin-top: 50px;
+
+}
+#banner img{
+    width: 100%;
+    height: 45%;
+
+}
+
+#banner .contenedor{
+    position: absolute;
+    top: 45%;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+
+    
+}
+
+#banner h2{
+    font-size: 28px;
+}
+
+#banner a{
+    display: block;
+    width: 100px;
+    color: #fff;
+    text-decoration: none;
+    padding: 7px;
+    margin-top: 10px;
+    border: 3px solid #fff;
+}
+
+#banner a:hover{
+    background: rgba(51, gree51n, 51blue, alpha0.5)
+}
+
+#texto{
+    margin: 40px;
+    line-height: 1.5;
+   } 
+
+#contenedor{
+    width: 70%;
+    /* overflow: hidden; */
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+}
+
+#contenedorcv {
+    width:20%;
+    margin:auto;
+    text-align: center;
+}
+
+a#descargarcv{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    display:inline-block;
+    }
